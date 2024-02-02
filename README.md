@@ -1,6 +1,6 @@
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=EmilIvanichkovv&theme=tokyonight_duo&hide_border=true&date_format=j%2Fn%5B%2FY%5D)](https://skyline.github.com/emilivanichkovv/2023)
+[![Emil's GitHub Streak](https://streak-stats.demolab.com?user=EmilIvanichkovv&theme=tokyonight_duo&hide_border=true&date_format=j%2Fn%5B%2FY%5D)](https://skyline.github.com/emilivanichkovv/2023)
 
 <br />
 
@@ -8,5 +8,5 @@
 
 <br />
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?theme=material-palenight&bg_color=DDDDDD00&username=EmilIvanichkovv&custom_title=%20&hide_border=true)](https://github.com/EmilIvanichkovv)
+[![Emil's github activity graph](https://github-readme-activity-graph.vercel.app/graph?theme=material-palenight&bg_color=DDDDDD00&username=EmilIvanichkovv&custom_title=%20&hide_border=true)](https://github.com/EmilIvanichkovv)
 </div>
