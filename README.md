@@ -9,4 +9,7 @@
 <br />
 
 [![Emil's github activity graph](https://github-readme-activity-graph.vercel.app/graph?theme=material-palenight&bg_color=DDDDDD00&username=EmilIvanichkovv&custom_title=%20&hide_border=true)](https://github.com/EmilIvanichkovv)
+
 </div>
+
+[![Emil's github activity graph](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=EmilIvanichkovv&theme=tokyonight&bg_color=DDDDDD00)](https://github.com/EmilIvanichkovv)
